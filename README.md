@@ -228,7 +228,7 @@ p.note { display: none; }
 <a href="20250110_043.JPG" target="_blank"><img src="20250110_043.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">交差点の入り口で立ち往生してしまったバスがいました</span></h2>
-<a href="20250110_001.png” target="_blank"><img src="20250110_001.png” alt="サンプル画像" width="900" /></a>
+<a href="20250110_050.JPG” target="_blank"><img src="20250110_050.JPG” alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">国道に隣接しているお寺は、立派なものが多いです</span></h2>
 <a href="20250110_044.JPG" target="_blank"><img src="20250110_044.JPG" alt="サンプル画像" width="900" /></a>
