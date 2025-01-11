@@ -164,6 +164,8 @@ p.note { display: none; }
 <a href="20250110_015.JPG" target="_blank"><img src="20250110_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250110_016.JPG" target="_blank"><img src="20250110_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250110_017.JPG" target="_blank"><img src="20250110_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">国内製の食料品はスーパー的なお値段</span></h2>
 <a href="20250110_018.JPG" target="_blank"><img src="20250110_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250110_019.JPG" target="_blank"><img src="20250110_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250110_020.JPG" target="_blank"><img src="20250110_020.JPG" alt="サンプル画像" width="900" /></a>
