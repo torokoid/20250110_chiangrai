@@ -205,7 +205,7 @@ p.note { display: none; }
 <h2><span class="yellow">左が前国王、右が第10代の現国王</span></h2>
 <a href="20250110_035.JPG" target="_blank"><img src="20250110_035.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">軍敷地内の受刑者が作った作物を格安販売しています</span></h2>
+<h2><span class="yellow">軍敷地内の受刑者が作った作物を格安販売しています<br>軍人さんが直接販売</span></h2>
 <a href="20250110_036.JPG" target="_blank"><img src="20250110_036.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">どこに行っても学校帰りの女子高生が居るのは日本と同じ</span></h2>
